@@ -1,0 +1,48 @@
+Happy Bars :
+==========
+
+ --> Here Super Stockist as Dealer
+====================================
+
+PO Creation,
+POAction
+Bulk uploa(inv):
+Bulk upload  prof inv,  sale order, delivered orders and comm inv. Bulk upload,
+then GRN,
+Returns
+======================
+
+Initial Setup lo Employee daggara change is there.
+
+Dealer to retailer.
+==========
+
+Dealer side executives ...new
+ 
+=============================================================
+
+  In Happy Bars  the Bulk upload option is there with few changes compared to Sresta.
+In Sresta, when Invoice Bulk upload is done, Profarma invoice &  Sale Order will be created.
+But in Happy Bars, additionally, Commercial invoice and Delivered orders will also be created automatically.
+Proforma ledu.
+
+PO create...inv upload: Commercial inv, so, dispatch, delivery,
+Sreshta:Proforma, commercial manual.
+
+
+ So, Sresta API's can be taken as reference with some customization.
+
+ In the Initial Setup, few changes in Employee creation.
+
+ Other than that  Happy Bars functional flow is almost similar to Sresta.
+  Dealer Sales executive new.
+---------------------------------------
+
+
+
+
+
+
+
+
+
